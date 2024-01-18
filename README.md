@@ -1,4 +1,3 @@
 # from-cheppala
-#Sridhar Cheppala
-##Pista House
-**Sridhar**
+## Sridhar Cheppala
+### Pista House
