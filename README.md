@@ -7,4 +7,8 @@ Pista house is known for its **haleem** famous all across the world. **They sell
 1. Zafrani Biryani
 2. Haleem
 3. Pepper Chicken
-----
+### Places to visit near restaurant
+- Charminar
+- Nizam Hospital
+- Movie Theatre
+
