@@ -22,3 +22,9 @@ This link will be directed to my media [page](MyMedia.md)
  |Sacred Games|Mystery and Thriller|Vikram Chandra|
  |Life of pi|A Nice MOtivational Book|Yann Martel|
  |The White Tiger|A Dark Humour|Aravind Adiga| 
+
+ ---
+ ### Quotes
+ > So many books, so little time. *Frank Zappa*
+ > Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. *Bernard M. Baruch*
+ > A room without books is like a body without a soul. *Marcus Tullius Cicero*
