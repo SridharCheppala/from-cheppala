@@ -25,8 +25,8 @@ This link will be directed to my media [page](MyMedia.md)
 
  ---
  ### Quotes
- > So many books, so little time. *Frank Zappa*
+ > So many books, so little time.  -*Frank Zappa*
  >
- > Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. *Bernard M. Baruch*
+ > Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.  -*Bernard M. Baruch*
  >
- > A room without books is like a body without a soul. *Marcus Tullius Cicero*
+ > A room without books is like a body without a soul.  -*Marcus Tullius Cicero*
