@@ -11,4 +11,4 @@ Pista house is known for its **haleem** famous all across the world. **They sell
 - Charminar
 - Nizam Hospital
 - Movie Theatre
-
+This link will be directed to my media [page](MyMedia.md)
