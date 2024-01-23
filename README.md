@@ -30,3 +30,15 @@ This link will be directed to my media [page](MyMedia.md)
  > Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.  -*Bernard M. Baruch*
  >
  > A room without books is like a body without a soul.  -*Marcus Tullius Cicero*
+
+ ---
+ ### Code Fencing
+
+ The Inner Join Command in SQL selects records that have matching values in both tables.
+```
+SELECT column_name(s)
+FROM table1
+INNER JOIN table2
+ON table1.column_name = table2.column_name;
+```
+The link to the snippet is <https://code.pieces.app/collections/sql>
