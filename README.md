@@ -18,7 +18,7 @@ This link will be directed to my media [page](MyMedia.md)
 
  |Book Name|Reason|Author|
  |:---|:---|:---|
- |One Arranged Murder|Nice Investigative Thriller|Chetan Bhagat|
- |Sacred Games|Mystery|Vikram Chandra|
+ |One Arranged Murder|Best Investigative Thriller|Chetan Bhagat|
+ |Sacred Games|Mystery and Thriller|Vikram Chandra|
  |Life of pi|A Nice MOtivational Book|Yann Martel|
  |The White Tiger|A Dark Humour|Aravind Adiga| 
